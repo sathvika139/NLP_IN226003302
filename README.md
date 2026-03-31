@@ -1,4 +1,4 @@
-# NLP Preprocessing Engine – Task 1
+# NLP – Task 1
 
 # NLP Processing Engine
 
@@ -33,7 +33,7 @@ Tested on diverse inputs including:
 ---
 
 
-# NLP Preprocessing Engine – Task 2
+# NLP – Task 2
 
 # 🧠 Sentiment Analysis using NLP & Machine Learning
 
@@ -101,3 +101,25 @@ Task2/
  ├── sentiment_analysis.ipynb
  └── README.md
 ```
+
+# NLP - Task 3
+
+# 🤖 NLP Chatbot using Hugging Face Transformers
+
+## 📌 Overview
+This project is a simple chatbot built using a pre-trained transformer model from Hugging Face.  
+It can interact with users and generate human-like responses in real time.
+
+## 🚀 Features
+- Conversational chatbot
+- Uses pre-trained transformer model (DialoGPT / BlenderBot)
+- Generates dynamic responses
+- Continuous interaction until exit
+
+## 🛠 Technologies Used
+- Python
+- Hugging Face Transformers
+- PyTorch
+
+## 📖 Conclusion
+This project demonstrates how transformer models can be used to build simple conversational AI systems.
